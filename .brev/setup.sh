@@ -13,3 +13,5 @@ pip install ./sample-generator
 pip install ./v-diffusion-pytorch
 pip install ipywidgets==7.7.1 gradio
 pip install k-diffusion
+pip install librosa
+sudo apt-get install libsndfile1 -y
